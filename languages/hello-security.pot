@@ -1,0 +1,154 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hello Security\n"
+"POT-Creation-Date: 2015-05-25 14:43+0100\n"
+"PO-Revision-Date: 2015-05-25 14:43+0100\n"
+"Last-Translator: Ulrich Pogson <grapplerulrich@gmail.com>\n"
+"Language-Team: Ulrich Pogson <grapplerulrich@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: hello-security.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: hello-security.php:20
+msgid "Be WP Secuure"
+msgstr ""
+
+#: hello-security.php:21
+msgid "PASSWORD is never a good password."
+msgstr ""
+
+#: hello-security.php:22
+msgid "Make your admin username unique."
+msgstr ""
+
+#: hello-security.php:23
+msgid "Change your password often."
+msgstr ""
+
+#: hello-security.php:24
+msgid "Use complex passwords."
+msgstr ""
+
+#: hello-security.php:25
+msgid "Use a contact form instead of having your email address on your site."
+msgstr ""
+
+#: hello-security.php:26
+msgid "Never call a WordPress user admin."
+msgstr ""
+
+#: hello-security.php:27
+msgid "Only keep the plugins you NEED."
+msgstr ""
+
+#: hello-security.php:28
+msgid "Use a different password for every account."
+msgstr ""
+
+#: hello-security.php:29
+msgid "Update all the things!"
+msgstr ""
+
+#: hello-security.php:30
+msgid "Backup, backup, backup!"
+msgstr ""
+
+#: hello-security.php:31
+msgid "Choose your themes and plugins wisely."
+msgstr ""
+
+#: hello-security.php:32
+msgid "Never share logins. Let them get their own."
+msgstr ""
+
+#: hello-security.php:33
+msgid "Do your research before you buy."
+msgstr ""
+
+#: hello-security.php:34
+msgid "Delete out old unused user accounts."
+msgstr ""
+
+#: hello-security.php:35
+msgid "Pay attention! You know your site the best."
+msgstr ""
+
+#: hello-security.php:36
+msgid "The harder the password is to remember, the harder it is to crack."
+msgstr ""
+
+#: hello-security.php:37
+msgid "Themes are for design. Plugins are for functionality."
+msgstr ""
+
+#: hello-security.php:38
+msgid "Todays features are tomorrow's vulnerabilities."
+msgstr ""
+
+#: hello-security.php:39
+msgid "Schedule reoccuring backups."
+msgstr ""
+
+#: hello-security.php:40
+msgid "Security is important before the hackers get in."
+msgstr ""
+
+#: hello-security.php:41
+msgid "Keep only one theme and the current WordPress theme for a default."
+msgstr ""
+
+#: hello-security.php:42
+msgid "An unisntalled theme or plugin has no vulnerabilities."
+msgstr ""
+
+#: hello-security.php:43
+msgid "Have you changed your password recently?"
+msgstr ""
+
+#: hello-security.php:44
+msgid "Check your file persmissions."
+msgstr ""
+
+#: hello-security.php:45
+msgid "Always use SFTP if available."
+msgstr ""
+
+#: hello-security.php:46
+msgid "Only give users access they need."
+msgstr ""
+
+#: hello-security.php:47
+msgid "Backup all the things.\""
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Hello Security"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://cantspeakgeek.com/hello-security/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Built using the base code of the popular plugin, Hello Dolly, this plugin "
+"gives"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Michele Butcher"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://cantspeakgeek.com/"
+msgstr ""
